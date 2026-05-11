@@ -1,0 +1,264 @@
+--- GAME STARTED: 2.12.2025 22:22:18 ---
+[22:22:18] 1. Wave Started.
+[22:22:18] Enemy CyberTank has entered the map. HP: 75 Armor: 100
+[22:22:19] Player added Electric Tower to (-4.50, -1.60, 0.00) position
+[22:22:21] Player added Nuclear Tower to  (-4.50, 1.72, 0.00) position
+[22:22:21] Enemy Cyborg has entered the map. HP: 50
+[22:22:21] Player added Slime Tower to (-1.50, -1.60, 0.00) position
+[22:22:22] Tower: Electric Tower shot nearest enemy: CyberTank(Clone)
+[22:22:22] (Damage: 10)
+[22:22:22] Armored Enemy's Net Damage: 2,5
+[22:22:22] Current Health of CyberTank: 72,5
+[22:22:22] Tower: Nuclear Tower shot nearest enemy: CyberTank(Clone)
+[22:22:22] (Area damage 20 on (-6.67, 0.00, 0.00))(can't aim Cyborgs)
+[22:22:22] Armored Enemy's Net Damage: 10
+[22:22:22] Current Health of CyberTank: 62,5
+[22:22:23] Tower: Electric Tower shot nearest enemy: CyberTank(Clone)
+[22:22:23] (Damage: 10)
+[22:22:23] Armored Enemy's Net Damage: 2,5
+[22:22:23] Current Health of CyberTank: 60
+[22:22:24] Tower: Electric Tower shot nearest enemy: Cyborg(Clone)
+[22:22:24] (Damage: 10)
+[22:22:24] Current Health of Cyborg: 40
+[22:22:24] Enemy CyberTruck has entered the map. HP: 50
+[22:22:24] Tower: Slime Tower shot nearest enemy: Cyborg(Clone)
+[22:22:24] (Slowed 50% with 15 damage)
+[22:22:24] Current Health of Cyborg: 25
+[22:22:25] Tower: Electric Tower shot nearest enemy: CyberTank(Clone)
+[22:22:25] (Damage: 10)
+[22:22:25] Armored Enemy's Net Damage: 2,5
+[22:22:25] Current Health of CyberTank: 57,5
+[22:22:25] Tower: Nuclear Tower shot nearest enemy: CyberTank(Clone)
+[22:22:25] (Area damage 20 on (-4.80, 0.00, 0.00))(can't aim Cyborgs)
+[22:22:25] Armored Enemy's Net Damage: 10
+[22:22:25] Current Health of CyberTank: 47,5
+[22:22:26] Tower: Electric Tower shot nearest enemy: CyberTank(Clone)
+[22:22:26] (Damage: 10)
+[22:22:26] Armored Enemy's Net Damage: 2,5
+[22:22:26] Current Health of CyberTank: 45
+[22:22:26] Tower: Slime Tower shot nearest enemy: Cyborg(Clone)
+[22:22:26] (Slowed 50% with 15 damage)
+[22:22:26] Current Health of Cyborg: 10
+[22:22:27] Tower: Electric Tower shot nearest enemy: CyberTank(Clone)
+[22:22:27] (Damage: 10)
+[22:22:27] Armored Enemy's Net Damage: 2,5
+[22:22:27] Current Health of CyberTank: 42,5
+[22:22:27] Enemy CyberTruck has entered the map. HP: 50
+[22:22:28] Tower: Electric Tower shot nearest enemy: CyberTruck(Clone)
+[22:22:28] (Damage: 10)
+[22:22:28] Current Health of CyberTruck: 40
+[22:22:28] Tower: Nuclear Tower shot nearest enemy: CyberTruck(Clone)
+[22:22:28] (Area damage 20 on (-4.47, 0.00, 0.00))(can't aim Cyborgs)
+[22:22:28] Armored Enemy's Net Damage: 10
+[22:22:28] Current Health of CyberTank: 32,5
+[22:22:28] Current Health of CyberTruck: 20
+[22:22:28] Tower: Slime Tower shot nearest enemy: CyberTank(Clone)
+[22:22:28] (Slowed 50% with 15 damage)
+[22:22:28] Armored Enemy's Net Damage: 7,5
+[22:22:28] Current Health of CyberTank: 25
+[22:22:29] Tower: Electric Tower shot nearest enemy: CyberTruck(Clone)
+[22:22:29] (Damage: 10)
+[22:22:29] Current Health of CyberTruck: 10
+[22:22:30] Tower: Electric Tower shot nearest enemy: CyberTruck(Clone)
+[22:22:30] (Damage: 10)
+[22:22:30] Current Health of CyberTruck: 40
+[22:22:30] Tower: Slime Tower shot nearest enemy: CyberTruck(Clone)
+[22:22:30] (Slowed 50% with 15 damage)
+[22:22:30] Current Health of CyberTruck: -5
+[22:22:30] CyberTruck has been killed. Prize: 10 Total Money: 15
+[22:22:31] Tower: Electric Tower shot nearest enemy: CyberTruck(Clone)
+[22:22:31] (Damage: 10)
+[22:22:31] Current Health of CyberTruck: 30
+[22:22:31] Tower: Nuclear Tower shot nearest enemy: CyberTruck(Clone)
+[22:22:31] (Area damage 20 on (-4.47, 0.00, 0.00))(can't aim Cyborgs)
+[22:22:31] Current Health of CyberTruck: 10
+[22:22:31] Enemy: Cyborg(Clone) dealt 5 damage to Base. Current Health: 95
+[22:22:32] Tower: Electric Tower shot nearest enemy: CyberTruck(Clone)
+[22:22:32] (Damage: 10)
+[22:22:32] Current Health of CyberTruck: 0
+[22:22:32] CyberTruck has been killed. Prize: 10 Total Money: 25
+[22:22:32] Tower: Slime Tower shot nearest enemy: CyberTank(Clone)
+[22:22:32] (Slowed 50% with 15 damage)
+[22:22:32] Armored Enemy's Net Damage: 7,5
+[22:22:32] Current Health of CyberTank: 17,5
+[22:22:34] Tower: Slime Tower shot nearest enemy: CyberTank(Clone)
+[22:22:34] (Slowed 50% with 15 damage)
+[22:22:34] Armored Enemy's Net Damage: 7,5
+[22:22:34] Current Health of CyberTank: 10
+[22:22:36] Tower: Slime Tower shot nearest enemy: CyberTank(Clone)
+[22:22:36] (Slowed 50% with 15 damage)
+[22:22:36] Armored Enemy's Net Damage: 7,5
+[22:22:36] Current Health of CyberTank: 2,5
+[22:22:46] Enemy: CyberTank(Clone) dealt 10 damage to Base. Current Health: 85
+[22:22:46] 2. Wave Started.
+[22:22:46] Enemy CyberTank has entered the map. HP: 75 Armor: 100
+[22:22:49] Enemy CyberTank has entered the map. HP: 75 Armor: 100
+[22:22:50] Tower: Electric Tower shot nearest enemy: CyberTank(Clone)
+[22:22:50] (Damage: 10)
+[22:22:50] Armored Enemy's Net Damage: 2,5
+[22:22:50] Current Health of CyberTank: 72,5
+[22:22:50] Tower: Nuclear Tower shot nearest enemy: CyberTank(Clone)
+[22:22:50] (Area damage 20 on (-6.67, 0.00, 0.00))(can't aim Cyborgs)
+[22:22:50] Armored Enemy's Net Damage: 10
+[22:22:50] Current Health of CyberTank: 62,5
+[22:22:50] Armored Enemy's Net Damage: 10
+[22:22:50] Current Health of CyberTank: 65
+[22:22:51] Tower: Electric Tower shot nearest enemy: CyberTank(Clone)
+[22:22:51] (Damage: 10)
+[22:22:51] Armored Enemy's Net Damage: 2,5
+[22:22:51] Current Health of CyberTank: 60
+[22:22:52] Tower: Electric Tower shot nearest enemy: CyberTank(Clone)
+[22:22:52] (Damage: 10)
+[22:22:52] Armored Enemy's Net Damage: 2,5
+[22:22:52] Current Health of CyberTank: 57,5
+[22:22:52] Enemy Cyborg has entered the map. HP: 50
+[22:22:53] Tower: Electric Tower shot nearest enemy: CyberTank(Clone)
+[22:22:53] (Damage: 10)
+[22:22:53] Armored Enemy's Net Damage: 2,5
+[22:22:53] Current Health of CyberTank: 55
+[22:22:53] Tower: Nuclear Tower shot nearest enemy: CyberTank(Clone)
+[22:22:53] (Area damage 20 on (-4.79, 0.00, 0.00))(can't aim Cyborgs)
+[22:22:53] Armored Enemy's Net Damage: 10
+[22:22:53] Current Health of CyberTank: 45
+[22:22:53] Armored Enemy's Net Damage: 10
+[22:22:53] Current Health of CyberTank: 55
+[22:22:54] Tower: Electric Tower shot nearest enemy: CyberTank(Clone)
+[22:22:54] (Damage: 10)
+[22:22:54] Armored Enemy's Net Damage: 2,5
+[22:22:54] Current Health of CyberTank: 42,5
+[22:22:54] Tower: Slime Tower shot nearest enemy: CyberTank(Clone)
+[22:22:54] (Slowed 50% with 15 damage)
+[22:22:54] Armored Enemy's Net Damage: 7,5
+[22:22:54] Current Health of CyberTank: 35
+[22:22:55] Tower: Electric Tower shot nearest enemy: Cyborg(Clone)
+[22:22:55] (Damage: 10)
+[22:22:55] Current Health of Cyborg: 40
+[22:22:55] Enemy Cyborg has entered the map. HP: 50
+[22:22:56] Tower: Electric Tower shot nearest enemy: CyberTank(Clone)
+[22:22:56] (Damage: 10)
+[22:22:56] Armored Enemy's Net Damage: 2,5
+[22:22:56] Current Health of CyberTank: 52,5
+[22:22:56] Tower: Nuclear Tower shot nearest enemy: CyberTank(Clone)
+[22:22:56] (Area damage 20 on (-4.79, 0.00, 0.00))(can't aim Cyborgs)
+[22:22:56] Armored Enemy's Net Damage: 10
+[22:22:56] Current Health of CyberTank: 25
+[22:22:56] Armored Enemy's Net Damage: 10
+[22:22:56] Current Health of CyberTank: 42,5
+[22:22:56] Tower: Slime Tower shot nearest enemy: Cyborg(Clone)
+[22:22:56] (Slowed 50% with 15 damage)
+[22:22:56] Current Health of Cyborg: 25
+[22:22:57] Tower: Electric Tower shot nearest enemy: CyberTank(Clone)
+[22:22:57] (Damage: 10)
+[22:22:57] Armored Enemy's Net Damage: 2,5
+[22:22:57] Current Health of CyberTank: 40
+[22:22:58] Tower: Electric Tower shot nearest enemy: Cyborg(Clone)
+[22:22:58] (Damage: 10)
+[22:22:58] Current Health of Cyborg: 40
+[22:22:58] Enemy CyberTruck has entered the map. HP: 50
+[22:22:58] Tower: Slime Tower shot nearest enemy: CyberTank(Clone)
+[22:22:58] (Slowed 50% with 15 damage)
+[22:22:58] Armored Enemy's Net Damage: 7,5
+[22:22:58] Current Health of CyberTank: 17,5
+[22:22:59] Tower: Electric Tower shot nearest enemy: CyberTank(Clone)
+[22:22:59] (Damage: 10)
+[22:22:59] Armored Enemy's Net Damage: 2,5
+[22:22:59] Current Health of CyberTank: 37,5
+[22:22:59] Tower: Nuclear Tower shot nearest enemy: CyberTank(Clone)
+[22:22:59] (Area damage 20 on (-2.92, 0.00, 0.00))(can't aim Cyborgs)
+[22:22:59] Armored Enemy's Net Damage: 10
+[22:22:59] Current Health of CyberTank: 7,5
+[22:22:59] Armored Enemy's Net Damage: 10
+[22:22:59] Current Health of CyberTank: 27,5
+[22:23:00] Tower: Electric Tower shot nearest enemy: CyberTank(Clone)
+[22:23:00] (Damage: 10)
+[22:23:00] Armored Enemy's Net Damage: 2,5
+[22:23:00] Current Health of CyberTank: 25
+[22:23:00] Tower: Electric Tower shot nearest enemy: CyberTruck(Clone)
+[22:23:00] (Damage: 10)
+[22:23:00] Current Health of CyberTruck: 40
+[22:23:00] Tower: Nuclear Tower shot nearest enemy: CyberTruck(Clone)
+[22:23:00] (Area damage 20 on (-6.43, 0.00, 0.00))(can't aim Cyborgs)
+[22:23:00] Current Health of CyberTruck: 20
+[22:23:00] Tower: Slime Tower shot nearest enemy: CyberTank(Clone)
+[22:23:00] (Slowed 50% with 15 damage)
+[22:23:00] Armored Enemy's Net Damage: 7,5
+[22:23:00] Current Health of CyberTank: 0
+[22:23:00] CyberTank has been killed. Prize: 20 Total Money: 45
+[22:23:01] Tower: Electric Tower shot nearest enemy: CyberTruck(Clone)
+[22:23:01] (Damage: 10)
+[22:23:01] Current Health of CyberTruck: 10
+[22:23:01] Enemy CyberTruck has entered the map. HP: 50
+[22:23:02] Enemy: Cyborg(Clone) dealt 5 damage to Base. Current Health: 80
+[22:23:02] Tower: Electric Tower shot nearest enemy: CyberTruck(Clone)
+[22:23:02] (Damage: 10)
+[22:23:02] Current Health of CyberTruck: 0
+[22:23:02] CyberTruck has been killed. Prize: 10 Total Money: 55
+[22:23:02] Tower: Slime Tower shot nearest enemy: CyberTank(Clone)
+[22:23:02] (Slowed 50% with 15 damage)
+[22:23:02] Armored Enemy's Net Damage: 7,5
+[22:23:02] Current Health of CyberTank: 17,5
+[22:23:03] Tower: Electric Tower shot nearest enemy: CyberTruck(Clone)
+[22:23:03] (Damage: 10)
+[22:23:03] Current Health of CyberTruck: 40
+[22:23:03] Tower: Nuclear Tower shot nearest enemy: CyberTruck(Clone)
+[22:23:03] (Area damage 20 on (-6.43, 0.00, 0.00))(can't aim Cyborgs)
+[22:23:03] Current Health of CyberTruck: 20
+[22:23:03] Enemy: Cyborg(Clone) dealt 5 damage to Base. Current Health: 75
+[22:23:04] Tower: Electric Tower shot nearest enemy: CyberTruck(Clone)
+[22:23:04] (Damage: 10)
+[22:23:04] Current Health of CyberTruck: 10
+[22:23:04] Enemy CyberTruck has entered the map. HP: 50
+[22:23:04] Tower: Slime Tower shot nearest enemy: CyberTank(Clone)
+[22:23:04] (Slowed 50% with 15 damage)
+[22:23:04] Armored Enemy's Net Damage: 7,5
+[22:23:04] Current Health of CyberTank: 10
+[22:23:05] Tower: Electric Tower shot nearest enemy: CyberTruck(Clone)
+[22:23:05] (Damage: 10)
+[22:23:05] Current Health of CyberTruck: 0
+[22:23:05] CyberTruck has been killed. Prize: 10 Total Money: 65
+[22:23:06] Tower: Electric Tower shot nearest enemy: CyberTruck(Clone)
+[22:23:06] (Damage: 10)
+[22:23:06] Current Health of CyberTruck: 40
+[22:23:06] Tower: Nuclear Tower shot nearest enemy: CyberTruck(Clone)
+[22:23:06] (Area damage 20 on (-6.43, 0.00, 0.00))(can't aim Cyborgs)
+[22:23:06] Current Health of CyberTruck: 20
+[22:23:07] Tower: Electric Tower shot nearest enemy: CyberTruck(Clone)
+[22:23:07] (Damage: 10)
+[22:23:07] Current Health of CyberTruck: 10
+[22:23:07] Enemy CyberTruck has entered the map. HP: 50
+[22:23:08] Player added Electric Tower to (4.50, -1.60, 0.00) position
+[22:23:08] Tower: Electric Tower shot nearest enemy: CyberTruck(Clone)
+[22:23:08] (Damage: 10)
+[22:23:08] Current Health of CyberTruck: 0
+[22:23:08] CyberTruck has been killed. Prize: 10 Total Money: 25
+[22:23:09] Tower: Electric Tower shot nearest enemy: CyberTank(Clone)
+[22:23:09] (Damage: 10)
+[22:23:09] Armored Enemy's Net Damage: 2,5
+[22:23:09] Current Health of CyberTank: 7,5
+[22:23:09] Tower: Electric Tower shot nearest enemy: CyberTruck(Clone)
+[22:23:09] (Damage: 10)
+[22:23:09] Current Health of CyberTruck: 40
+[22:23:09] Tower: Nuclear Tower shot nearest enemy: CyberTruck(Clone)
+[22:23:09] (Area damage 20 on (-6.43, 0.00, 0.00))(can't aim Cyborgs)
+[22:23:09] Current Health of CyberTruck: 20
+[22:23:10] Tower: Electric Tower shot nearest enemy: CyberTank(Clone)
+[22:23:10] (Damage: 10)
+[22:23:10] Armored Enemy's Net Damage: 2,5
+[22:23:10] Current Health of CyberTank: 5
+[22:23:10] Tower: Electric Tower shot nearest enemy: CyberTruck(Clone)
+[22:23:10] (Damage: 10)
+[22:23:10] Current Health of CyberTruck: 10
+[22:23:11] Tower: Electric Tower shot nearest enemy: CyberTank(Clone)
+[22:23:11] (Damage: 10)
+[22:23:11] Armored Enemy's Net Damage: 2,5
+[22:23:11] Current Health of CyberTank: 2,5
+[22:23:11] Tower: Electric Tower shot nearest enemy: CyberTruck(Clone)
+[22:23:11] (Damage: 10)
+[22:23:11] Current Health of CyberTruck: 0
+[22:23:11] CyberTruck has been killed. Prize: 10 Total Money: 35
+[22:23:12] Tower: Electric Tower shot nearest enemy: CyberTank(Clone)
+[22:23:12] (Damage: 10)
+[22:23:12] Armored Enemy's Net Damage: 2,5
+[22:23:12] Current Health of CyberTank: 0
+[22:23:12] CyberTank has been killed. Prize: 20 Total Money: 55
+[22:23:12] Game has been Won  Last HP: 75 Last Money: 55
