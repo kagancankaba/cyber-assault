@@ -6,6 +6,8 @@ A Tower Defense game developed in Unity with C#, themed around a futuristic "Cyb
 
 Defend your base against waves of cyber enemies by strategically placing towers. Each tower and enemy type has unique mechanics and interactions.
 
+![Gameplay](screenshots/gameplay.png)
+
 ## Towers
 
 - **Electric Tower** — Single target, consistent damage
